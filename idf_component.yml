@@ -1,0 +1,9 @@
+version: 1.9.5
+description: lib jsoncpp port on ESP IDF
+url: https://github.com/open-source-parsers/jsoncpp
+documentation: http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html
+license: "MIT"
+repository: https://github.com/jgraulle/esp-idf-jsoncpp
+dependencies:
+  idf:
+    version: '>=5.0'
